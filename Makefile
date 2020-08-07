@@ -1,5 +1,6 @@
 include makefiles/gitignore.mk
 include makefiles/ytt.mk
+include makefiles/rustup.mk
 include makefiles/help.mk
 
 ################################################################################
